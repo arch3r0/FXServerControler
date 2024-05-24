@@ -4,7 +4,7 @@ This batch script, is designed as a simple command-line interface tool for manag
 
 # Requirements
 
-CloudTheWolf.FiveM.Service by CloudTheWolf is required to use this script https://github.com/CloudTheWolf/CloudTheWolf.FiveM.Service
+FiveM As A Service by CloudTheWolf is required to use this script https://github.com/CloudTheWolf/CloudTheWolf.FiveM.Service
 
 # Preview
 
